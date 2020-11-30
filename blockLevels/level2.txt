@@ -1,0 +1,6 @@
+1,BLUE  1,BLUE  1,BLUE  1,BLUE  1,BLUE  1,BLUE  1,BLUE
+1,RED   projectile   1,RED   1,RED   1,RED   projectile   1,RED
+1,BLUE  1,BLUE  1,BLUE  unbreakable  1,BLUE  1,BLUE  1,BLUE
+1,RED   unbreakable   1,RED   3,GREEN   unbreakable   1,RED   unbreakable
+1,RED   1,RED   1,RED   4,PURPLE   1,RED   1,RED   1,RED
+1,RED   projectile   1,RED   projectile   4,PURPLE   projectile   1,RED

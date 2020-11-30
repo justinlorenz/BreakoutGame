@@ -1,0 +1,3 @@
+Game Over!
+Press space to try again
+ORANGERED
