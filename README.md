@@ -25,9 +25,9 @@ Various webpages showing different JavaFX methods such as how to create a Vbox.
 
 ### Photos Of The Game
 
-![GamePlay](/blockLevels/readMeAssets/multiball.png)
+![GamePlay](/doc/readmeAssets/multiball.png)
 
-![GameOver](/blockLevels/readMeAssets/gameover.png)
+![GameOver](/doc/readmeAssets/gameover.png)
 
 ### Running the Program
 
