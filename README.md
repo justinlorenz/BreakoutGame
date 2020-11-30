@@ -23,6 +23,11 @@ https://www2.cs.duke.edu/courses/fall20/compsci307d/readings/Mercer_Ch16_part1.p
 
 Various webpages showing different JavaFX methods such as how to create a Vbox.
 
+### Photos Of The Game
+
+![GamePlay](/blockLevels/readMeAssets/multiball.png)
+
+![GameOver](/blockLevels/readMeAssets/gameover.png)
 
 ### Running the Program
 
@@ -30,7 +35,7 @@ Main class: Game.java
 
 Data files needed: 
 
-The data files given are level1.txt - level3.txt and scorefile.txt. These run the, but the game is built to be able to be run for even more interations, so by following the level guidelines that will be referenced below, you can create your own levels and run the game for even longer. However, for right now, we have provided 3 levels to play, and also have the mandatory scorefile.txt that holds the current scores (you can change this file to be a clean slate if you want).
+The data files given are level1.txt - level3.txt and scorefile.txt. These run the current levels provided, but the game is built to be able to be run for unlimited amount of levels. By following the level guidelines that will be referenced below, you can create your own levels and run the game for even longer than just 3 levels. However, for right now, we have provided 3 levels to play, and also have the mandatory scorefile.txt that holds the current scores (you can change this file to be a clean slate if you want).
 
 
 Key/Mouse inputs:
@@ -63,7 +68,7 @@ How our levels vary currently:
 
 As of right now we have included three different levels to play from. Our first level is really simple and is there to get the user used to really how the game plays out. There is only one unbreakable brick in the game, and the rest of the blocks are just defaults. Once the player advances to the next level, they are introduced to more unbreakable bricks and a few projectile bricks. The unbreakable bricks make it a little more challenging to play while the new projectile bricks add a little more suprise into the game to catch the player off guard to try and dim their lives down. This level isn't meant to be too challenging but should make the player lose maybe one life. The last level is really where the game is the hardest. The level has impossible bricks placed at strategic locations to force the player to hit certain bricks, and the level is ridden with tons of projectile bricks to make the player always trying to guess where to move next. This level is supposed to be really challenging and hard for a normal player to complete perfectly. Other than the brick types varying, we also increase the number of bricks per level to break. If we had more time, we would easily implement more types of bricks to be added and introduced to current or future levels.
 
-Key Notes for User:
+#### Key Notes for User:
 
 * How to create levels:
     * To change our created levels to your own inputted ones, you need to change the STARTING_LEVEL_FILEPATH constant in game and NUMBER_OF_LEVELS constant in progress. This should automatically find the remaining file names that you have loaded in our blockLevels data folder.
